@@ -1,2 +1,3 @@
-# Final_thesis
-Research, construct and Implement Quadcopter Algorithm
+# Robotics Project
+Research, construct and Implement Quadcopter Stabilization Algorithm by Optical Flow and PID controller
+ 
